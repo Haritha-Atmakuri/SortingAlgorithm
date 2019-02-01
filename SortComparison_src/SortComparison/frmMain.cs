@@ -54,8 +54,8 @@ namespace SortComparison
 
         private void DrawSamples()
         {
-            g1.Clear(Color.White);
-            g2.Clear(Color.White);
+            g1.Clear(Color.Black);
+            g2.Clear(Color.Black);
 
             for (int i = 0; i < array1.Count; i++)
             {
