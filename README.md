@@ -5,5 +5,8 @@
 3) The name of the code file that display the main form is frmMain.cs
 4) The main form constructor is InitializeComponent().
 5) The main form is dervied from static class Program().
+6) this.tbSamples.Value is used to set the default value 
+7) this.cboAlg1 is used to make the bucket sort to be default
+8)  this.cboAlg2 is used to make the quick sort to be default
 
 
