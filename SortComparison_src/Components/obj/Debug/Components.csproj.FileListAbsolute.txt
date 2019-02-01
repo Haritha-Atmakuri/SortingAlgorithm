@@ -1,0 +1,6 @@
+C:\Users\s533725\Documents\44663\SortingAlgorithm\SortComparison_src\Components\bin\Debug\Gif.Components.dll
+C:\Users\s533725\Documents\44663\SortingAlgorithm\SortComparison_src\Components\bin\Debug\Gif.Components.pdb
+C:\Users\s533725\Documents\44663\SortingAlgorithm\SortComparison_src\Components\obj\Debug\Components.csprojAssemblyReference.cache
+C:\Users\s533725\Documents\44663\SortingAlgorithm\SortComparison_src\Components\obj\Debug\Components.csproj.CoreCompileInputs.cache
+C:\Users\s533725\Documents\44663\SortingAlgorithm\SortComparison_src\Components\obj\Debug\Gif.Components.dll
+C:\Users\s533725\Documents\44663\SortingAlgorithm\SortComparison_src\Components\obj\Debug\Gif.Components.pdb

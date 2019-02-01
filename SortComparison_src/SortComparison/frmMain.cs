@@ -30,6 +30,7 @@ namespace SortComparison
         private void Form1_Load(object sender, EventArgs e)
         {
             this.tbSamples.Maxium=200;
+            this.tbSamples.Maximum=500;
             this.tbSamples.Value=100;
             this.cboAlg1.SelectedIndex=3;
             this.cboAlg2.SelectedIndex=12;

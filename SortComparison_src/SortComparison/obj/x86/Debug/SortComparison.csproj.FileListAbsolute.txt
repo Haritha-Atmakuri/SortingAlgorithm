@@ -9,6 +9,7 @@ C:\Users\S534049\Documents\44663\SortComparison_src\SortComparison\obj\x86\Debug
 C:\Users\S534049\Documents\44663\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
 C:\Users\S534049\Documents\44663\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.exe
 C:\Users\S534049\Documents\44663\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.pdb
+<<<<<<< HEAD
 C:\Users\s533725\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.exe
 C:\Users\s533725\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.pdb
 C:\Users\s533725\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csprojAssemblyReference.cache
@@ -16,3 +17,16 @@ C:\Users\s533725\Documents\44663\SortingAlgorithm\SortComparison_src\SortCompari
 C:\Users\s533725\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.Properties.Resources.resources
 C:\Users\s533725\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.GenerateResource.cache
 C:\Users\s533725\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CoreCompileInputs.cache
+=======
+C:\Users\S534049\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csprojAssemblyReference.cache
+C:\Users\S534049\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.frmMain.resources
+C:\Users\S534049\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.Properties.Resources.resources
+C:\Users\S534049\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.GenerateResource.cache
+C:\Users\S534049\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CoreCompileInputs.cache
+C:\Users\S534049\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.exe
+C:\Users\S534049\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.pdb
+C:\Users\S534049\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\bin\Debug\SortComparison.exe
+C:\Users\S534049\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\bin\Debug\SortComparison.pdb
+C:\Users\S534049\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\bin\Debug\Gif.Components.dll
+C:\Users\S534049\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
+>>>>>>> d9de299ce8e139f54825af0ee380ac819096e859
