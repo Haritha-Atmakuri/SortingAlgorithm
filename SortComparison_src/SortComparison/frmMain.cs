@@ -34,6 +34,9 @@ namespace SortComparison
             this.tbSamples.Value=100;
             this.cboAlg1.SelectedIndex=3;
             this.cboAlg2.SelectedIndex=12;
+            this.cmdShuffle.PerformClick();
+            this.cmdSort.ForeColor=Color.Olive;
+
 
         }
 
@@ -54,8 +57,8 @@ namespace SortComparison
 
         private void DrawSamples()
         {
-            g1.Clear(Color.Black);
-            g2.Clear(Color.Black);
+            g1.Clear(Color.SkyBlue);
+            g2.Clear(Color.SkyBlue);
 
             for (int i = 0; i < array1.Count; i++)
             {
