@@ -30,8 +30,12 @@ C:\Users\S534049\Documents\44663\SortingAlgorithm\SortComparison_src\SortCompari
 C:\Users\S534049\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\bin\Debug\Gif.Components.dll
 C:\Users\S534049\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
 >>>>>>> d9de299ce8e139f54825af0ee380ac819096e859
+<<<<<<< HEAD
 C:\Users\s533725\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\bin\Debug\SortComparison.exe
 C:\Users\s533725\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\bin\Debug\SortComparison.pdb
 C:\Users\s533725\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\bin\Debug\Gif.Components.dll
 C:\Users\s533725\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\bin\Debug\Gif.Components.pdb
 C:\Users\s533725\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
+=======
+C:\Users\S534049\Documents\44663\SortingAlgorithm\SortComparison_src\SortComparison\bin\Debug\Gif.Components.pdb
+>>>>>>> 8e6ef3885302bcd58c12f7eb70987cddbf74349e
