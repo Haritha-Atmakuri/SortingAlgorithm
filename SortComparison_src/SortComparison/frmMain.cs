@@ -29,13 +29,18 @@ namespace SortComparison
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.tbSamples.Maxium=200;
+            
+            this.tbSamples.Maximum=500;
             this.tbSamples.Value=100;
             this.cboAlg1.SelectedIndex=3;
             this.cboAlg2.SelectedIndex=12;
-            this.cmdShuffle.PerformClick();
-            this.cmdSort.ForeColor=Color.Yellow;
             
+            this.cmdShuffle.PerformClick();
+            this.cmdSort.ForeColor=Color.Olive;
+            this.tbSpeed.BackColor=Color.Aqua;
+            this.InitializeOutputFolder();
+
+
 
         }
 
@@ -56,8 +61,8 @@ namespace SortComparison
 
         private void DrawSamples()
         {
-            g1.Clear(Color.White);
-            g2.Clear(Color.White);
+            g1.Clear(Color.SkyBlue);
+            g2.Clear(Color.SkyBlue);
 
             for (int i = 0; i < array1.Count; i++)
             {
@@ -263,7 +268,7 @@ namespace SortComparison
         private string InitializeOutputFolder()
         {
            return AppDomain.CurrentDomain.BaseDirectory.ToString() + "\\output";
-        }
-      
+            }
+        
     }
 }

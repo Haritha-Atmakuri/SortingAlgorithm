@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Components"
+    "\\Components",
+    "\\SortComparison"
   ],
-  "SelectedNode": "\\Components\\Components.csproj",
+  "SelectedNode": "\\SortComparison\\SortComparison.csproj",
   "PreviewInSolutionExplorer": false
 }
