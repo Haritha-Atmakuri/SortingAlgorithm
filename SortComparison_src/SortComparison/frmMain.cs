@@ -34,10 +34,12 @@ namespace SortComparison
             this.tbSamples.Value=100;
             this.cboAlg1.SelectedIndex=3;
             this.cboAlg2.SelectedIndex=12;
-            this.InitializeOutputFolder();
+            
             this.cmdShuffle.PerformClick();
             this.cmdSort.ForeColor=Color.Olive;
             this.tbSpeed.BackColor=Color.Aqua;
+            this.InitializeOutputFolder();
+
 
 
         }
